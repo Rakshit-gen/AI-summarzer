@@ -4,7 +4,7 @@ import {logo} from '../assets'
 const Hero = () => {
   return (
     <header className='justify-center w-full flex items-center flex-col'>
-        <nav className='flex justify-between items-center w-full mb-10 pt-3'>
+        <nav className='flex justify-between items-center w-full mb-12 pt-3'>
             <img src={logo} alt='summerz_logo' className='w-14 object-contain' />
             <h1 style={{fontFamily:'cursive', color: 'purple',fontWeight: 'normal',  fontSize: '28px',lineHeight: '42px',textShadow: '0 0 3px white, 0 3px #777'}}>
             SummerzR</h1>
