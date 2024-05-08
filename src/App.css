@@ -17,7 +17,7 @@
 }
 
 .main:before {
-  background: radial-gradient(circle, rgb(213, 171, 171) 0, rgb(176, 174, 182), 157, 157) 100%, rgb(200, 229, 127) 75%);
+  background: radial-gradient(circle, rgb(213, 171, 171) 0, rgb(176, 174, 182), 157, 157) 100%, rgb(200, 226, 127) 75%);
   position: absolute;
   content: "";
   z-index: 2;
